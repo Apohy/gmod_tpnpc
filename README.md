@@ -1,6 +1,7 @@
 # Teleport NPC
 
 Only compatible for DarkRP servers.
+
 Installation directory : /garrysmod/addons/
 
 Todo list:
