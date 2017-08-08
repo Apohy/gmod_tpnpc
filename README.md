@@ -1,6 +1,6 @@
 # Teleport NPC
 
-Only compatible for DarkRP servers.
+Only compatible with DarkRP gamemode.
 
 Installation directory : /garrysmod/addons/
 
