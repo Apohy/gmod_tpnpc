@@ -1,1 +1,3 @@
-# gmod_tpnpc
+# Teleport NPC
+
+Only compatible for DarkRP servers.
